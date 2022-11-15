@@ -6,9 +6,7 @@ public class GitHubNew {
 		
 		
 		System.out.println("Github");
-		System.out.println("Github");
-		System.out.println("Github");
-		System.out.println("Github");
+
 		
 	}
 
